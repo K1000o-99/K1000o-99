@@ -19,5 +19,4 @@
 ### 📫 **Cómo contactarme**
 - 📧 Email: [camiloirarojas1999@gmail.com](mailto:camiloirarojas1999@gmail.com)
 - 💼 LinkedIn: [Camilo Irarrazabal](http://www.linkedin.com/in/camilo-irarrazabal)
-- 💻 GitHub: [@K1000o-99](https://github.com/K1000o-99)
 
