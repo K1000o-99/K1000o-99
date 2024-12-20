@@ -14,7 +14,7 @@
 - Lenguajes: Python, Java, JavaScript, SQL, PL/SQL
 - Herramientas: Power BI, Power Apps, Power Automate, Excel
 - Frameworks: Django, React.js
-- Plataformas: Microsoft Azure, Google Cloud Platform (GCP)
+- Plataformas: Google Cloud Platform (GCP), VisualStudio Code
 
 ### 📫 **Cómo contactarme**
 - 📧 Email: [camiloirarojas1999@gmail.com](mailto:camiloirarojas1999@gmail.com)
